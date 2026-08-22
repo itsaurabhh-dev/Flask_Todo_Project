@@ -3,5 +3,6 @@
 { "name": "Rajesh", "email": "Raj12@yahooo.in", "password": "Rajes3124" }, 
 { "name": "Saurabh", "email": "Saurabhh@gmail.com", "password": "Saurabh45" }, 
 { "name": "Daurabh", "email": "Daurabhh@gmail.com", "password": "Daurabh45" } ,
-{ "name": "NewDaurabh", "email": "newDaurabhh@gmail.com", "password": "new_Daurabh45" } 
+{ "name": "NewDaurabh", "email": "newDaurabhh@gmail.com", "password": "new_Daurabh45" } ,
+{ "name": "newRajesh", "email": "newRaj12@yahooo.in", "password": "newRajes3124" }
 ]
